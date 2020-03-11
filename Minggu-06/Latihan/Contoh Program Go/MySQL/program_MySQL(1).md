@@ -70,4 +70,4 @@
 
 **Hasil :**
 
->![Hasil](https://github.com/defri-surya/tekn-cloud-computing/blob/master/Minggu-06/Latihan/Contoh%20Program%20Go/MySQL/mysql(1).png
+>![Hasil](https://github.com/defri-surya/tekn-cloud-computing/blob/master/Minggu-06/Latihan/Contoh%20Program%20Go/MySQL/mysql(1).png)
